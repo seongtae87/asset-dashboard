@@ -1,0 +1,10 @@
+# 평문 데이터·인증정보는 절대 커밋하지 않는다 (실수 방지용 이중 안전장치)
+*.json
+*.dat
+*.log
+eugene_holdings.js
+kiwoom_holdings.js
+dashboard_state.js
+dart_dividends.js
+credentials*
+*_credentials*
